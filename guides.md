@@ -1,7 +1,8 @@
 ## Guides, Cheatsheets & Useful Sites
 
-### Github
-[Github Hello World](https://guides.github.com/activities/hello-world/). 
+### Main sites
+[GitHub](https://github.com/), [Codepen.io](https://codepen.io/)
+
 
 ### Markup langs
 [Mozilla's Web technology for developers](https://developer.mozilla.org/en-US/docs/Web).
@@ -12,9 +13,12 @@
 
 [Markdown](https://daringfireball.net/projects/markdown/). 
 
-[Stylus](http://stylus-lang.com/), [Github/Stylus](https://github.com/stylus/stylus/). 
+[CSSpre](https://csspre.com/): guide for CSS preprocessors. 
 
-[CanIUse](https://caniuse.com/): Web Technology Support Info. 
+[CanIUse](https://caniuse.com/): web technology support info. 
+
+### Guides for Github
+[Github Hello World](https://guides.github.com/activities/hello-world/). 
 
 ### Questions
 Stack Overflow, Quora

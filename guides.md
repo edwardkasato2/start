@@ -14,7 +14,9 @@
 
 ### Questions
 Stack Overflow, Quora
-[Slant](https://www.slant.co/) for Comparisions
+
+### Comparision between Softwares
+[Slant](https://www.slant.co/).
 
 ### News
 HackerNews

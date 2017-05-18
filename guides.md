@@ -26,11 +26,11 @@ Stack Overflow, Quora
 ### Comparisions
 [Slant](https://www.slant.co/).
 
-### News
-HackerNews. 
-
 ### Forums
-4chan /g/, Reddit
+4chan /g/, Reddit, HackerNews. 
+
+### Blogs
+[Hongkiat](http://www.hongkiat.com/blog/)
 
 
 

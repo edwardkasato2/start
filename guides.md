@@ -23,7 +23,7 @@
 ### Questions
 Stack Overflow, Quora
 
-### Comparision & Benchmark
+### Comparisions
 [Slant](https://www.slant.co/).
 
 ### News

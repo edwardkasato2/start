@@ -30,7 +30,7 @@ Stack Overflow, Quora
 4chan /g/, Reddit, HackerNews. 
 
 ### Blogs
-[Hongkiat](http://www.hongkiat.com/blog/)
+[Hongkiat](http://www.hongkiat.com/blog/). [CSS Tricks](https://css-tricks.com).
 
 
 

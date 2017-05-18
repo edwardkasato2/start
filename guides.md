@@ -15,13 +15,15 @@
 ### Questions
 Stack Overflow, Quora
 
-### Comparision between Softwares
+### Comparision & Benchmark
 [Slant](https://www.slant.co/).
 
 ### News
-HackerNews
+HackerNews. 
+Can I Use. 
 
 ### Forums
 4chan /g/, Reddit
+
 
 

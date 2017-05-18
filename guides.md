@@ -10,7 +10,9 @@
 
 [W3 Schools HTML reference](https://www.w3schools.com/tags/default.asp).
 
-[Markdown](https://daringfireball.net/projects/markdown/). [Stylus](https://github.com/stylus/stylus/). 
+[Markdown](https://daringfireball.net/projects/markdown/). 
+
+[Stylus](http://stylus-lang.com/), [Github/Stylus](https://github.com/stylus/stylus/). 
 
 [CanIUse](https://caniuse.com/): Web Technology Support Info. 
 

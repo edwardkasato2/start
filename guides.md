@@ -1,4 +1,4 @@
-## Guides, Cheatsheets & Useful Sites
+## Useful Sites
 
 ### Main sites
 [GitHub](https://github.com/), [Codepen.io](https://codepen.io/)

@@ -12,6 +12,8 @@
 
 [Markdown](https://daringfireball.net/projects/markdown/). [Stylus](https://github.com/stylus/stylus/). 
 
+[CanIUse](https://caniuse.com/): Web Technology Support Info. 
+
 ### Questions
 Stack Overflow, Quora
 
@@ -20,7 +22,6 @@ Stack Overflow, Quora
 
 ### News
 HackerNews. 
-Can I Use. 
 
 ### Forums
 4chan /g/, Reddit

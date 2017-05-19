@@ -2,12 +2,7 @@
 
 <!--[GitHub](https://github.com/)-->
 
-### Tools
-[Github Pages](https://pages.github.com/), [Codepen.io](https://codepen.io/)
-
-<!--[Codenvy.io](https://codenvy.io/). [Git & Codenvy](https://codenvy.com/docs/user-guide/git-svn/index.html).-->
-
-### Markup langs
+### References
 [Mozilla's Web technology for developers](https://developer.mozilla.org/en-US/docs/Web).
 
 [CSS Tricks Snippets](https://css-tricks.com/snippets/css/).
@@ -19,6 +14,12 @@
 [CSSpre](https://csspre.com/): guide for CSS preprocessors. 
 
 [CanIUse](https://caniuse.com/): web technology support info. 
+
+
+### Tools
+[Github Pages](https://pages.github.com/), [Codepen.io](https://codepen.io/)
+
+<!--[Codenvy.io](https://codenvy.io/). [Git & Codenvy](https://codenvy.com/docs/user-guide/git-svn/index.html).-->
 
 ### Questions
 Stack Overflow, Quora

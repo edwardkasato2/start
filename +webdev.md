@@ -3,7 +3,7 @@
 <!--[GitHub](https://github.com/)-->
 
 ### References
-[Mozilla's Web technology for developers](https://developer.mozilla.org/en-US/docs/Web).
+[Mozilla Web tech](https://developer.mozilla.org/en-US/docs/Web).
 
 [CSS Tricks Snippets](https://css-tricks.com/snippets/css/).
 

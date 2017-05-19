@@ -1,7 +1,9 @@
 ## Useful Sites
 
 ### Main sites
-[GitHub](https://github.com/), [Codepen.io](https://codepen.io/), [Codenvy.io](https://codenvy.io/)
+[GitHub](https://github.com/), [Codepen.io](https://codepen.io/)
+
+<!--[Codenvy.io](https://codenvy.io/)-->
 
 
 [Github Hello World](https://guides.github.com/activities/hello-world/). 
@@ -15,7 +17,7 @@
 
 [W3 Schools HTML reference](https://www.w3schools.com/tags/default.asp).
 
-[Markdown](https://daringfireball.net/projects/markdown/). 
+[Markdown Syntax](http://daringfireball.net/projects/markdown/syntax). 
 
 [CSSpre](https://csspre.com/): guide for CSS preprocessors. 
 

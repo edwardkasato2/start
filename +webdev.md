@@ -11,7 +11,7 @@
 ### Tools
 [Github Pages](https://pages.github.com/) for create & host static pages.
 
-[Codepen.io](https://codepen.io/) for showcase & find inspiration for front-end web dev.
+[Codepen.io](https://codepen.io/) for showcase & share small codes, & find inspiration for front-end web dev.
 
 <!--[Codenvy.io](https://codenvy.io/). [Git & Codenvy](https://codenvy.com/docs/user-guide/git-svn/index.html).-->
 

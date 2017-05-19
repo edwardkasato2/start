@@ -4,7 +4,6 @@
 [GitHub](https://github.com/), [Codepen.io](https://codepen.io/)
 
 <!--[Codenvy.io](https://codenvy.io/). [Git & Codenvy](https://codenvy.com/docs/user-guide/git-svn/index.html).-->
-[Github Hello World](https://guides.github.com/activities/hello-world/). 
 
 ### Markup langs
 [Mozilla's Web technology for developers](https://developer.mozilla.org/en-US/docs/Web).

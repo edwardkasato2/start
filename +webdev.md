@@ -11,7 +11,7 @@
 ### Tools
 [Github Pages](https://pages.github.com/) for create & host static pages.
 
-[Codepen.io](https://codepen.io/) for showcase code snippets & find inspiration.
+[Codepen.io](https://codepen.io/) for small showcases & find inspiration.
 
 <!--[Codenvy.io](https://codenvy.io/). [Git & Codenvy](https://codenvy.com/docs/user-guide/git-svn/index.html).-->
 

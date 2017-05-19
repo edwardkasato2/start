@@ -1,7 +1,9 @@
 ## Useful Sites
 
-### Main sites
-[GitHub](https://github.com/), [Codepen.io](https://codepen.io/)
+<!--[GitHub](https://github.com/)-->
+
+### Tools
+[Github Pages](https://pages.github.com/), [Codepen.io](https://codepen.io/)
 
 <!--[Codenvy.io](https://codenvy.io/). [Git & Codenvy](https://codenvy.com/docs/user-guide/git-svn/index.html).-->
 

@@ -7,4 +7,4 @@ Excel the [required subjects](https://www.del.ufrj.br/atividades/graduacao/eletr
 
 Do [double major in Math ](http://www.im.ufrj.br/bacharelado/duplo-diploma/resumo-acordo.htm) if possible.
 
-In PhD, study Nanotech (Optics, Solid State, Quantum Mechanics) applied to Microelectronics, Robotics & AI.
+In PhD, study Nanotech (Physics & Chemistry for Optics, Solid State, Quantum Mechanics) applied to Microelectronics, Robotics & AI.

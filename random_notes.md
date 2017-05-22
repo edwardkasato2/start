@@ -7,7 +7,7 @@ Excel the [required subjects](https://www.del.ufrj.br/atividades/graduacao/eletr
 
 I,f possible Do Minor in [Math](http://www.im.ufrj.br/bacharelado/duplo-diploma/resumo-acordo.htm) OR Physics.
 
-Study also the basics of Material Science (Mechanics of Materials, Transfer Process, Physical Chemistry, Thermodynamics, Solid State, etc)
+Study also the basics of Material Science (Mechanics of Materials, [Transport Phenomena](https://en.wikipedia.org/wiki/Transport_phenomena), Physical Chemistry, Thermodynamics, Solid State, etc)
 
 
 In PhD, study Nanotech (Physics & Material Science for Optics, Solid State, Quantum Mechanics) applied to Microelectronics, Robotics & AI.

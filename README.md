@@ -1,11 +1,11 @@
 # start
 
 
-<div class="flex-container">
-<div class="flex-item">1</div>
-<div class="flex-item">2</div>
-<div class="flex-item">3</div>
-<div class="flex-item">4</div>
-<div class="flex-item">5</div>
-<div class="flex-item">6</div>
+<div class="flex">
+<div class="tile">1</div>
+<div class="tile">2</div>
+<div class="tile">3</div>
+<div class="tile">4</div>
+<div class="tile">5</div>
+<div class="tile">6</div>
 </div>
